@@ -34,6 +34,15 @@
 
 ---
 
+## 🎬 Vídeos do Projeto
+
+| | Vídeo | Link |
+|---|---|---|
+| 📹 | Demonstração da Aplicação | [Assistir no YouTube](LINK_AQUI) |
+| 🎤 | Vídeo Pitch | [Assistir no YouTube](LINK_AQUI) |
+
+---
+
 ## 🌍 Sobre o Projeto
 
 O **Satellite Emergency Hub** simula uma plataforma operacional utilizada por órgãos de defesa civil e centros de monitoramento climático para acompanhar situações críticas em tempo real.
