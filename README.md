@@ -38,8 +38,8 @@
 
 | | Vídeo | Link |
 |---|---|---|
-| 📹 | Demonstração da Aplicação | [Assistir no YouTube](LINK_AQUI) |
-| 🎤 | Vídeo Pitch | [Assistir no YouTube](LINK_AQUI) |
+| 📹 | Demonstração da Aplicação | https://youtu.be/VPVRVaeB2eA |
+| 🎤 | Vídeo Pitch | https://youtu.be/_p2iQyymvBc |
 
 ---
 
